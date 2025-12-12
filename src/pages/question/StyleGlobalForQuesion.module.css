@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: 2;
+    
+    width: 600px;
+    height: auto;
+    overflow: hidden;
+}

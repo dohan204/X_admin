@@ -1,0 +1,6 @@
+.form {
+    width: 500px; 
+    display: flex;
+    /* gap: 10px; */
+    height: 150px;
+}

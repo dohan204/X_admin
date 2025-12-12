@@ -1,0 +1,9 @@
+.layoutParent {
+    display: flex;
+    flex-direction: column;
+    max-width: 1250;
+    width: 900;
+    margin-top: 6;
+    margin-left: 35;
+    height: 660;
+}
